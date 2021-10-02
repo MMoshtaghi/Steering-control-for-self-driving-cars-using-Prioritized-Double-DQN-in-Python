@@ -14,5 +14,5 @@ Deep Reinforcement Learning
 I used an older version of Airsim API, so I don't guarantee this works fine with the latest version.
 ## Note
 In this project, I suggest you use the transfer learning method to first train the Conv Layers and then just train the subsequent Fully Connected Layers using Reinforcement Learning methods like Prioritized Double DQN to reduce the trainig time. I personally prefer this way, but your agent could also learn both vision and driving abilities from scratch, which considerably takes longer (depending on the number and Computing Capability of your GPAs).
-## What next
+## What next?
 Computer Vision for Autonomous Vehicles
