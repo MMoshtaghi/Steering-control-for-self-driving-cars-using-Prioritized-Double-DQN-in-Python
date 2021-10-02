@@ -7,6 +7,6 @@ Deep Reinforcement Learning
 * you can find more on the Internet but remember "Stand on the Shoulders of Giants"
 ## My Envinronment Setup
 * Anaconda
-* Keras v2.4.3 on Tensorflow v2.3 & Cuda 10
+* Keras v2.4.3 on Tensorflow v2.3 & CUDA 10
 ## Simulator
 [Airsim](#https://microsoft.github.io/AirSim/) in the landscape environment
