@@ -3,7 +3,7 @@ Deep Reinforcement Learning
 ## Prerequisites and setup
 ### Background needed
 * basic concepts of reinforcement learning. A helpful introduction to reinforcement learning can be [found here by Professor Emma Brunskill, Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) you'll get DQN in lecture 6
-* I also highly recommend [this course by Professor Yann LeCun, winner of 2018 ACM A.M. Turing Award, and Alfredo Canziani, NYU](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+* I also highly recommend [this course by Professor Yann LeCun, winner of 2018 ACM A.M. Turing Award, and Alfredo Canziani, NYU](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) on Deep Learning
 * you can find more on the Internet but remember "Stand on the Shoulders of Giants"
 ## My Envinronment Setup
 * Anaconda
