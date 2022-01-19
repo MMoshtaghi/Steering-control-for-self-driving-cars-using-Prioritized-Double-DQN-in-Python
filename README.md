@@ -1,5 +1,9 @@
 # Towards-Self-driving-Cars-using-Prioritized-Double-DQN-in-Python
 Deep Reinforcement Learning
+
+The main parts of the project are the Prioritized Double DQN algorithm and AirSim simulator.
+The agent is fed with the front-view images (as the state) and a location-based reward function in order to control the pedals and the steering wheel to stay close to the middle line of the road.
+
 ## Prerequisites and setup
 ### Background needed
 * basic concepts of reinforcement learning. A helpful introduction to reinforcement learning can be [found here by Hado Van Hasselt, Deep Mind and UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
