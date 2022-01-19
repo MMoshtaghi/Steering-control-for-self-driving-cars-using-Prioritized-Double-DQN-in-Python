@@ -2,7 +2,7 @@
 Deep Reinforcement Learning
 
 The main parts of the project are the Prioritized Double DQN algorithm and AirSim simulator.
-The agent is fed with the front-view images (as the state) and a location-based reward function in order to control the pedals and the steering wheel to stay close to the middle line of the road.
+The agent is fed with the front-view images (as the state) and a location-based reward function in order to control the pedals and the steering wheel to stay close to the middle line of the road.(You can reduce the number of actions to just 5 specific angles of the steering wheel for a shorter learning time, as I did)
 
 ## Prerequisites and setup
 ### Background needed
