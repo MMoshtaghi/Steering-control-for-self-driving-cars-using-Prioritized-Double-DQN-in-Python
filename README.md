@@ -1,4 +1,4 @@
-# Steering-control-for-self-driving-cars-using-Prioritized-Double-DQN-in-Python
+# Steering control for self-driving cars using Prioritized Double-DQN in Python
 Deep Reinforcement Learning
 
 The main parts of the project are the Prioritized Double DQN algorithm and AirSim simulator.
