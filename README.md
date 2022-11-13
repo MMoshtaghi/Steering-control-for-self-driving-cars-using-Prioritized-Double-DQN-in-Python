@@ -17,7 +17,7 @@ The agent is fed with the front-view images (as the state) and a location-based 
 ### Notice
 I used an older version of Airsim API, so I don't guarantee this works fine with the latest version.
 ## Note
-In this project, I suggest you use transfer learning. First pre-train the Conv Layers on a curated images from the environment. You can go either supervised or self-supervised and then just train the subsequent Fully Connected Layers using Reinforcement Learning (Prioritized Double DQN). Learning both vision and driving abilities from scratch considerably takes longer (if converged) depending on the number and Computing Capability of your GPAs.
+In this project, I suggest you use transfer learning. First pre-train the Conv Layers on a curated images from the environment. You can go either supervised or self-supervised and then just train the subsequent Fully Connected Layers using Reinforcement Learning (Prioritized Double DQN). Learning both vision and driving abilities from scratch considerably takes longer (if converged) depending on the number and Computing Capability of your GPUs.
 ## What next?
 Work on :
 1) Other Deep RL models like DDPG
